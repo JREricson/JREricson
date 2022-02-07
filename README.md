@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning ... Django, postgres, Docker and other related technologies.
 
 
-### **Languages**\n
--**Python** 
+### **Languages**
+-**Python**
+
 -**Java**
+
 -**Javascript**
+
 -Academic exposure to C, C++, Arm assembly
 
 
