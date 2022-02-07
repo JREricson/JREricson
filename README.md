@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Django, postgres, Docker and other related technologies.
 
 
-###**Languages**
+### **Languages**\n
 -**Python** 
 -**Java**
 -**Javascript**
