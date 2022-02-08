@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning ... Django, postgres, Docker and other related technologies.
 
 
-### Languages
--**Python**
+## Languages
+- **Python**
 
--**Java**
+- **Java**
 
--**Javascript**
+- **Javascript**
 
--Academic exposure to C, C++, Arm assembly.
+- Academic exposure to C, C++, Arm assembly.
 
 ## Highlighted projects
 
@@ -28,7 +28,7 @@
 - Made as a school project, shares services from other students in the class.
 
 
-### Samller projects
+### Smaller projects
 #### Color Selection Game (The Great Color Challenge)
  - [Color shape challenge](https://github.com/JREricson/GreatColorShapeChallenge)
  - **Language/concepts**: Javascript, CSS, HTML, DOM.
