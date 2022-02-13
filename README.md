@@ -34,7 +34,7 @@
  - [site](https://jrericson.github.io/GreatColorShapeChallenge/)
  - [github repo](https://github.com/JREricson/GreatColorShapeChallenge)
  - **Language/concepts**: Javascript, CSS, HTML, DOM.
- - **Description**:A simple game made for the purpose of learning DOM manipulation. 
+ - **Description**: A simple game made for the purpose of learning DOM manipulation. 
  - Earlier example of my coding.
  
 
@@ -57,7 +57,8 @@
 #### script to run tests
 - [github repo](https://github.com/JREricson/ScriptsForRunningTests/blob/master/runStdInTests.py)
 - **Language/concepts** : python/ OS module, Bash, pratical
-- **Description**:
+- **Description**: Script that runs test files comparing input files with desired output
+- Made to save time while running tests in a college course
 
 
 
