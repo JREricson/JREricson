@@ -44,7 +44,7 @@
  - **Description**:Contains DoublyLinked list with unit tests.
  - Made for the purpose of practicing unit tests and generics.
   
-### Simple scripting
+### Simple scripting/Bash
 
 
 #### pdf file sorter
@@ -59,6 +59,13 @@
 - **Language/concepts** : python/ OS module, Bash, pratical
 - **Description**: Script that runs test files comparing input files with desired output
 - Made to save time while running tests in a college course
+
+#### Bashrc_alias
+- [github repo](https://github.com/JREricson/aliases)
+- **Language/concepts** : Bash
+- **Description**: Alias file for bash
+
+
 
 
 
