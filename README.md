@@ -60,10 +60,10 @@
 - **Description**: Script that runs test files comparing input files with desired output
 - Made to save time while running tests in a college course
 
-#### Bashrc_alias
+#### .bash_alias
 - [github repo](https://github.com/JREricson/aliases)
 - **Language/concepts** : Bash
-- **Description**: Alias file for bash
+- **Description**: Alias file for bash pulled from .bashrc
 
 
 
