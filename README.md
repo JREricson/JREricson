@@ -69,7 +69,7 @@
 #### .bash_alias
 - [github repo](https://github.com/JREricson/aliases)
 - **Language/concepts** : Bash
-- **Description**: Alias file for bash pulled from .bashrc
+- **Description**: Alias file pulled from .bashrc
 
 
 
