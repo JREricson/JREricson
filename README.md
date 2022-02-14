@@ -29,6 +29,12 @@
 - Made as a school project, shares services from other students in the class.
 
 
+#### Personal website
+- [github repo](https://github.com/JREricson/DjangoPortfolioPage)
+- **Description**: Portfolio page
+- **Language/concepts** : Python, django, Javascript, css, html, docker, postgres, unit testing.
+- Under construction --> not published yet.
+
 ### Smaller projects
 #### Color Selection Game (The Great Color Challenge)
  - [site](https://jrericson.github.io/GreatColorShapeChallenge/)
