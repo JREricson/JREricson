@@ -72,7 +72,11 @@
 - **Description**: Alias file pulled from .bashrc
 
 
-
+### Testing
+ - public repos with testing include:
+ -  [doublylinkedList](https://github.com/JREricson/GenericADT): Junit
+ -  [PersonalSite](https://github.com/JREricson/DjangoPortfolioPage)  Will soon include more pytest/Selenium.
+ -  [AlgorithmPracticeProblems](https://github.com/JREricson/AlgorithmAndDataStructProblems) Pytest. Simple test cases.
 
 
 
