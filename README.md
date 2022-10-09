@@ -8,7 +8,7 @@
 ## Languages
 - **Python**:  Basic scripting. Introductory exposure to Django, beautiful soup, symbolic calculations with sympy.
 - **Javascript/Typescript** : Professional experience in Typescript. large personal projects and academic projects using Node.js and dynamic frontend scripts.
-- ** C, C++, Java** : Exposure in academic coursework, especially in Java (Generics, OOP, exception handling. Introductory exposure to Maven, Gradle, Android app development). 
+- **C, C++, Java** : Exposure in academic coursework, especially in Java (Generics, OOP, exception handling. Introductory exposure to Maven, Gradle, Android app development). 
 
 ## Highlighted projects
 
