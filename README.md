@@ -1,14 +1,14 @@
 ## Personal
 - I'm interested in Backend development, solving interesting problems, understanding how things work in software, programming and the world as a whole.
--  I’m currently learning Django, postgres, Docker, Linux and other related technologies.
-- **Primary operating systems**: Linux (currently Manjaro), Windows.
+-  I’m currently learning Django, Postgres, Docker, Nginx, Linux and other related technologies.
+- **Primary operating systems**: Linux (currently Manjaro) and Windows.
 
 
 
 ## Languages
 - **Python**:  Basic scripting. Introductory exposure to Django, beautiful soup, symbolic calculations with sympy.
-- **Javascript/Typescript** : Professional experience in Typescript. large personal projects and academic projects using Node.js and dynamic frontend scripts.
-- **C, C++, Java** : Exposure in academic coursework, especially in Java (Generics, OOP, exception handling. Introductory exposure to Maven, Gradle, Android app development). 
+- **Javascript/Typescript**: Professional experience in Typescript. large personal projects and academic projects using Node.js and dynamic frontend scripts.
+- **C, C++, Java**: Exposure in academic coursework, especially in Java (Generics, OOP, exception handling. Introductory exposure to Maven, Gradle, Android app development). 
 
 ## Highlighted projects
 
@@ -33,13 +33,13 @@
 
 
 #### Personal website
-- [Github repo](https://github.com/JREricson/personal_webpage)
+- Under construction --> Coming late October 2022.
+- [Repo for old version of code](https://github.com/JREricson/personal_webpage)
 - Serves as a host for personal projects and communication among friends.
 - Hosts personal portfolio site.
-- **Language/concepts**: Python, django, Javascript, css, html, docker, postgres, unit testing, logging.
-- Under construction --> not published yet.
+- **Language/concepts**: Python, django, Javascript, CSS, HTML, docker, postgres, unit testing, logging.
 - Will be hosted on a Linux server using Docker soon.
-- Plan to include incorporate continuous integration through Jenkins or similar in the near future.
+- Currently adding Nginx, CI through Github Actions, remote server with domain name, docker, AWS S3, task scheduling (either cron or celery), and site backups.
 
 
  
