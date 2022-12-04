@@ -1,5 +1,5 @@
 ## Personal
-- I'm interested in Backend development, solving interesting problems, understanding how things work in software, programming and the world as a whole.
+- I'm interested in Backend/Fullstack development, solving interesting problems, understanding how things work in software, programming and the world as a whole.
 - I’m currently learning Django, Postgres, Docker, Nginx, Linux, webscraping, and other related technologies.
 - **Primary operating systems**: Linux (Xbuntu/Manjaro) and Windows.
 
